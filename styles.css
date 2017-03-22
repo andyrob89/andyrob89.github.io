@@ -8,6 +8,11 @@
   background-color: red;
 }
 
+.middle_container {
+  display: flex;
+  background-color: tomato;
+}
+
 nav {
   justify-content: space-between;
   align-items: center;
