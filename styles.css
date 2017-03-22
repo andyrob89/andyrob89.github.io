@@ -1,7 +1,18 @@
+.container {
+  width: 80%;
+  margin: 0px auto;
+}
+
+.top_container {
+  display: flex;
+  background-color: red;
+}
+
 nav {
   justify-content: space-between;
   align-items: center;
   display: flex;
+  background-color: green;
 }
 
 .logo {
@@ -27,7 +38,10 @@ p {
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
-.container {
-  width: 80%;
-  margin: 0px auto;
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
 }
