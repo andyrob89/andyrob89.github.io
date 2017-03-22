@@ -1,0 +1,33 @@
+nav {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.logo {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  display: inline-block;
+}
+
+ul {
+  display: inline-block;
+  list-style: none;
+  padding-left: 0px;
+  margin: 0px;
+  padding-right: 20px;
+}
+
+li {
+  display: inline-block;
+  padding: 15px;
+}
+
+p {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 0px auto;
+}
